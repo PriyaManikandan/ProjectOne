@@ -14,6 +14,10 @@ public class GitTask2 {
 	public static void main(String[] args) {
 		
 		System.out.println("git2");
+<<<<<<< HEAD
+	System.out.println("git3");
+=======
 		
+>>>>>>> 5c471d70c466bf5040cd241209c948380855531c
 	}
 }
